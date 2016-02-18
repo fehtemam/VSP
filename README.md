@@ -6,7 +6,7 @@ The project has four parts:
 
 * Phase one: Preliminary experiment design & Pilot study
 
-      * Pilot results
+      * [Pilot results](https://github.com/fehtemam/VSP/blob/master/Pilot.md)
 
 * Phase two: Data processing & Finalizing experiment design
 
